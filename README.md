@@ -1,6 +1,6 @@
 # abueguias
 
-`abueguias` es una colección de guías web claras, prácticas y accesibles. El sitio es una aplicación Next.js compartida que se exporta por completo como archivos estáticos. La primera guía es **IA sin miedo**.
+`abueguias` es una colección de guías web claras, prácticas y accesibles. El sitio es una aplicación Next.js compartida que se exporta por completo como archivos estáticos. La primera guía es **IA sin miedo**, con introducción, diez capítulos y Botiquín.
 
 ## Puesta en marcha
 

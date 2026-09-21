@@ -13,3 +13,10 @@ El contenido no fija nombres, posiciones ni aspecto de controles de Gemini o Not
 - Hacer una prueba de lectura con la lectora objetivo: móvil, iPad, Mac, teclado y zoom al 200 %.
 
 Hasta completar esas comprobaciones, el Botiquín habla de “la zona de escritura”, “una opción para adjuntar” y “si está disponible”.
+
+## Capítulos 3–10 (septiembre de 2026)
+
+- La ayuda oficial de [Gemini sobre archivos](https://support.google.com/gemini/answer/14903178?hl=es) confirma el trabajo con documentos, pero la disponibilidad y los límites dependen de la cuenta. Los ejercicios ofrecen la alternativa de pegar un fragmento y no fijan nombres de controles.
+- La ayuda oficial de [NotebookLM sobre fuentes](https://support.google.com/notebooklm/answer/16215270?hl=es) y [conversación](https://support.google.com/notebooklm/answer/16179559?hl=es) orienta el ejercicio con dos fuentes y la comprobación de referencias. La interfaz, los tipos de fuente disponibles y las funciones de pago deben volver a revisarse con una cuenta real antes de publicar.
+- Revisar con la lectora objetivo la duración y carga del capítulo 9. Sus dieciocho recetas están pensadas como consulta, no como una lección que deba completarse de una vez.
+- Comprobar con una cuenta personal real el flujo de añadir archivos a Gemini y fuentes a NotebookLM, sin usar materiales privados durante la prueba.
