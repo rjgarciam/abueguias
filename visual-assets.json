@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ia-portada-apertura",
+    "guide": "ia-sin-miedo",
+    "location": "Portada de la guía",
+    "pedagogicalPurpose": "Transmitir una entrada serena y adulta a la guía sin representar una interfaz concreta.",
+    "type": "ilustración editorial",
+    "description": "Una mesa de trabajo luminosa con cuaderno, lápiz y formas que sugieren una conversación ordenada.",
+    "alt": "Cuaderno abierto junto a varias notas conectadas como una conversación.",
+    "finalPath": "/guides/ia-sin-miedo/images/portada-apertura.webp"
+  },
+  {
+    "id": "ia-diagrama-criterio",
+    "guide": "ia-sin-miedo",
+    "location": "Capítulo 1, apartado sobre respuestas equivocadas",
+    "pedagogicalPurpose": "Distinguir visualmente propuesta, explicación y dato que debe comprobarse.",
+    "type": "diagrama",
+    "description": "Tres tarjetas conectadas con decisiones sencillas y sin iconos ambiguos.",
+    "alt": "Tres tipos de respuesta: propuesta para elegir, explicación para orientarse y dato para comprobar.",
+    "finalPath": "/guides/ia-sin-miedo/images/tres-tipos-respuesta.svg"
+  },
+  {
+    "id": "ia-conversacion-correccion",
+    "guide": "ia-sin-miedo",
+    "location": "Capítulo 2, apartado pedir cambios concretos",
+    "pedagogicalPurpose": "Mostrar que corregir el rumbo es una parte normal de la conversación.",
+    "type": "conversación simulada",
+    "description": "Intercambio ficticio claramente rotulado, con una petición inicial y una corrección concreta.",
+    "alt": "Ejemplo simulado donde una persona pide conservar una idea y cambiar el tono.",
+    "finalPath": "/guides/ia-sin-miedo/images/conversacion-correccion.webp"
+  }
+]

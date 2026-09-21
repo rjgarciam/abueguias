@@ -1,0 +1,23 @@
+{
+  "id": "cambiar-id",
+  "slug": "cambiar-slug",
+  "title": "Título de la guía",
+  "summary": "Qué aprenderá la persona y para qué le servirá.",
+  "status": "hidden",
+  "contentVersion": 1,
+  "language": "es",
+  "order": 99,
+  "accent": "#315c57",
+  "cover": {
+    "eyebrow": "Una guía para...",
+    "promise": "Explica con claridad qué podrá hacer la persona al terminar."
+  },
+  "features": {
+    "progress": true,
+    "copyBlocks": false,
+    "emergencyKit": false
+  },
+  "navigation": [
+    { "id": "introduccion", "kind": "introduction", "slug": "introduccion", "title": "Antes de empezar", "description": "Presentación breve.", "order": 0, "durationMinutes": 5, "status": "published", "path": ["introduccion"] }
+  ]
+}
